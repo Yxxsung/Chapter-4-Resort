@@ -2,6 +2,9 @@ body-element {color: #666666; background-color: #FFFFFF; font: verdana}
 
 header-element {background-color: #002171; color: #FFFFFF; font: Georgia}
 
+header-element{style{#figure {border: 3px solid #000000; font-family: papyrus, fantasy; padding: 6px;
+      text-align: center; width: 500px;}}}
+
 h1-element {line-height: 200%;}
 
 nav-element {text-decoration: none; background-color: #BBDEFB; font-weight: bold;}
