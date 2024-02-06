@@ -1,48 +1,20 @@
-<!--Apparently this is a comment???-->
+bD2ody-element {color: #666666; background-color: #FFFFFF; font: verdana}
 
-<link rel="stylesheet" href="pacific.css">
+header-element {background-color: #002171; color: #FFFFFF; font: Georgia}
 
-<!DOCTYPE html>
-<html lang="en">
-    <nav>
-        <b><a href="index.html">Home</a></b> &nbsp;
-        <b><a href="yurts.html">Yurts</a></b> &nbsp;
-        <b><a href="activities.html">Activities</a></b> &nbsp;
-        <b><a href="Reservations.html">Reservations</a></b> &nbsp;
-    </nav>
-    <head>
-        <h1>Pacific Trails Resort</h1>
-        <link rel="stylesheet" href="pacific.css">
-    </head>
-    <title>
-        Pacific Trails Resort
-    </title>
-    <main>
-        <div wrapper="wrapper";>
-            <body>
-                <h2>
-                    Enjoy Nature in Luxury
-                </h2>
-                <p>
-                     <!--I think I figured out how the span thing works, hopefully I did the class thing right-->
-                    <span class="resort">Pacific Trails Resort </span>on the California North Coast offers panoramic views of the Pacific Ocean.
-                    Our guests experience an opulent camping adventure in sumptuously appointed private yurts featuring
-                    a gas fireplace, king-size bed and private deck.
-                </p>
-                <ul>
-                    <li>Unwind at the heated outdoor pool and whirlpool</li>
-                    <li>Explore the coast on your own or join our guided tours</li>
-                    <li>Start the day with a complimentary cooked to order breakfast</li>
-                    <li>Relax in our lodge while enjoying complimentary appetizers and beverages</li>
-                    <li>Savor nightly fine dining with an ocean view</li>
-                </ul>
-                <div>
-                    Pacific Trails Resort - 12010 Pacific Trails Road, Zephyr, CA 95555 - 888-555-5555
-                </div>
-            </body>
-        </div>
-    </main>
-    <footer>
-        Copyright 2020 <span class="resort">Pacific Trails Resort </span><br> sophia.alexander@gmail.com
-    </footer>
-</html>
+h1-element {line-height: 200%;}
+
+nav-element {text-decoration: none; background-color: #BBDEFB; font-weight: bold;}
+
+h2-element{color: #1976D2; font: Georgia;}
+
+dt-element{color: #002171; font-weight:bold;}
+
+footer-element{font-size: .70em; text-align: center; font-size: small;}
+
+/*supposed to add a class called resort and set it to medium blue text color #1976D2 with 1.2em font size
+could not for the life of me figure this out, ask in class*/
+
+.resort {color: #1976D2; font-size: 1.2em;}
+
+#wrapper {width: 80%; margin-right: auto; margin-left: auto;}
