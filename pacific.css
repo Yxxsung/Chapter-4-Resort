@@ -36,3 +36,9 @@ h3-element{font: Georgia;}
 main-element{padding-left: 2em; padding-right:2em; display:block;}
 
 homehero-element{height: 300px; background-image:"coast.jpg"; background-size: 100%;}
+
+yurthero-element{height:300px; background-image:"yurt.jpg"; background-size: 100%;}
+
+trailhero-element{height:300px; background-image:"trail.jpg"; background-size: 100%;}
+
+nav a {text-decoration:none;}
