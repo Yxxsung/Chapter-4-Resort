@@ -1,9 +1,9 @@
 
 
 
-body-element {color: #666666; background-color: #FFFFFF; font: verdana}
+body-element {color: #666666; background-color: #FFFFFF; font-family: veranda;}
 
-header-element {background-color: #002171; color: #FFFFFF; font: Georgia}
+header-element {background-color: #002171; color: #FFFFFF; font-family: Georgia;}
 
 header-element{style{#figure {border: 3px solid #000000; font-family: papyrus, fantasy; padding: 6px;
       text-align: center; width: 500px; padding-top:.5em;}}}
@@ -12,7 +12,7 @@ h1-element {line-height: 200%;}
 
 nav-element {text-decoration: none; font-weight: bold; padding-top:.5em; padding-right: 05em; padding-bottom: .5em; text-align: center;}
 
-h2-element{color: #1976D2; font: Georgia;}
+h2-element{color: #1976D2; font-family: Georgia;}
 
 dt-element{color: #002171; font-weight:bold;}
 
@@ -23,9 +23,9 @@ could not for the life of me figure this out, ask in class*/
 
 .resort {color: #1976D2; font-size: 1.2em;}
 
-#wrapper {width: 80%; margin-right: auto; margin-left: auto; background-color: #FFFFFF; min-width: 960px; max-width:2048px; box-shadow: black;}
+#wrapper {width: 80%; margin-right: auto; margin-left: auto; background-color: #FFFFFF; min-width: 960px; max-width:2048px; box-shadow:black;}
 
-background-image{linear-gradient:(to right, #FFFFFF, #90C7E3)}
+background-image{linear-gradient:to right, #FFFFFF, #90C7E3}
 
 meta charset{color:#90C7E3;}
 
