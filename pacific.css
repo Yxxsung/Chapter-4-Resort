@@ -1,3 +1,6 @@
+
+
+
 body-element {color: #666666; background-color: #FFFFFF; font: verdana}
 
 header-element {background-color: #002171; color: #FFFFFF; font: Georgia}
@@ -20,8 +23,10 @@ could not for the life of me figure this out, ask in class*/
 
 .resort {color: #1976D2; font-size: 1.2em;}
 
-#wrapper {width: 80%; margin-right: auto; margin-left: auto;}
+#wrapper {width: 80%; margin-right: auto; margin-left: auto; background-color: #FFFFFF; min-width: 960px; max-width:2048px; box-shadow: black;}
 
-background-image: linear-gradient:(to right, #FFFFFF, #90C7E3)
+background-image{linear-gradient:(to right, #FFFFFF, #90C7E3)}
 
-meta charset = color:#90C7E3;
+meta charset{color:#90C7E3;}
+
+header-element{background-image:"sunset.jpg"; align:"right";}
